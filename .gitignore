@@ -1,0 +1,16 @@
+# Object files
+*.o
+*.obj
+
+build
+
+# Executables (no extension on Linux/Mac, .exe on Windows)
+a.out
+your_program_name
+*.exe
+
+# Other build artifacts
+*.d
+*.so
+*.a
+*.dylib
