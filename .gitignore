@@ -3,6 +3,7 @@
 *.obj
 
 build
+.vscode
 
 # Executables (no extension on Linux/Mac, .exe on Windows)
 a.out
